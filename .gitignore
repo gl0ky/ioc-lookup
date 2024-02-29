@@ -1,0 +1,17 @@
+# Archivos generados durante la ejecución del programa
+.breakpoints
+.cache
+.upm
+replit_zip_error_log.txt
+.replit
+replit.nix
+
+# Archivos generados por herramientas de desarrollo
+__pycache__
+
+# Archivos de dependencias generados por Poetry
+poetry.lock
+poetry.toml
+
+# Archivos de salida generados por el entorno de desarrollo
+venv/
